@@ -55,6 +55,99 @@
       "description": "Office space for you & your team, private reserved spaces are fully enclosed offices with lockable doors. Private offices include use of all amenities and up to 12 hours conference room per month."
     }
   ],
+  "perks": [
+    {
+      "headline": [
+        {
+          "1": [
+            {
+              "title": "Union Cowork is open 24/7",
+              "body": "Active work communities thrive on a 24-hour cycle, and Union is open for your business every day, all day, 365 days a year. Our Members always have secure access to their workspace."
+            }
+          ],
+          "2": [
+            {
+              "title": "All inclusive pricing",
+              "body": "All Members receive plug and play space included in the cost of their office space: secure ultra high speed internet access, furnishings, basic utilities, mail service, access to social and business gatherings, and a full array of beverages to fuel your day."
+            }
+          ],
+          "3": [
+            {
+              "title": "One Membership, All Office",
+              "body": "Active work communities thrive on a 24-hour cycle, and Union is open for your business every day, all day, 365 days a year. Our Members always have secure access to their workspace."
+            }
+          ]
+        }
+      ],
+      "content": [
+        {
+          "1": [
+            {
+              "title": "Outdoor working environments",
+              "image": "",
+              "body": "Outdoor work space and social gathering areas are planned for each location we build. These are landscaped, furnished spaces that provide the flexibility to work or gather and develop relationships in refreshing open air environments ."
+            }
+          ],
+          "2": [
+            {
+              "title": "Neighborhood Centric",
+              "image": "",
+              "body": "Union is a neighborhood-centric brand, this translates to a large majority of our Members walking or biking to work. We further support our environmentally friendly commuters by providing bicycle parking, on-site showers and our own branded Union village bikes for members to use throughout the day."
+            }
+          ],
+          "3": [
+            {
+              "title": "Union Cowork is open 24/7",
+              "image": "",
+              "body": "Active work communities thrive on a 24-hour cycle and Union Cowork is open for your business 365 days a year. Members always have secure access to their workspace."
+            }
+          ],
+          "4": [
+            {
+              "title": "Beverage bar",
+              "image": "",
+              "body": "Enjoy unlimited access to micro roasted coffee, tea, local craft beer and kombucha."
+            }
+          ],
+          "5": [
+            {
+              "title": "Conference rooms",
+              "image": "",
+              "body": "All Members have access to meeting rooms at every Union location."
+            }
+          ],
+          "6": [
+            {
+              "title": "Well designed work areas",
+              "image": "",
+              "body": "Union Cowork believes that great design supports a better quality of life. Our spaces are designed, built and curated by leading professionals in their respective industries. We have a custom furniture team that provides thoughtful, creative and pragmatic solutions for our Members"
+            }
+          ],
+          "7": [
+            {
+              "title": "High speed internet",
+              "image": "",
+              "body": "Ultra high speed and secure wireless internet access."
+            }
+          ],
+          "8": [
+            {
+              "title": "We love dogs!",
+              "image": "",
+              "body": "Bring your furry companions to work alongside you."
+            }
+          ],
+          "9": [
+            {
+              "title": "Personal Lockers",
+              "image": "",
+              "body": "Want to store your valuables? Make Union more home-base by keeping your belongings here with us."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "comments": [
     {
       "id": 0,
