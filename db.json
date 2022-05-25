@@ -2,28 +2,28 @@
   "spaces": [
     {
       "id": 0,
-      "name": "Ethos Society",
+      "city": "Los Angeles",
       "image": "https://s3-media0.fl.yelpcdn.com/bphoto/6PN5rBFNif-fKE5Xkx5JnA/o.jpg",
       "featured": false,
       "description": "Ethos Society is a communal workspace where dreamers share, create, evolve, focus, accomplish their dreams, and become doers. Choose from a variety of memberships and be a part of something bigger."
     },
     {
       "id": 1,
-      "name": "Second Home Hollywood",
+      "city": "Beverly Hills",
       "image": "https://s3-media0.fl.yelpcdn.com/bphoto/pWbyb_FSrE0ZDeJlGgwEbw/o.jpg",
       "featured": false,
       "description": "We've created LA's healthiest workspace at our two acre outdoor campus - alfresco working areas with super-fast WiFi, and garden offices where the air is completely recycled every two minutes."
     },
     {
       "id": 2,
-      "name": "Dots Space",
+      "city": "San Francisco",
       "image": "https://s3-media0.fl.yelpcdn.com/bphoto/9RWka6WwL3_o8daaEcQOtw/o.jpg",
       "featured": false,
       "description": "WE WENT VIRTUAL. SO WILL YOU. dots now offers virtual mailbox services, phone answering services, and advanced phone and sms automation for crm management."
     },
     {
       "id": 3,
-      "name": "MESH space",
+      "city": "New York City",
       "image": "https://s3-media0.fl.yelpcdn.com/bphoto/2tyzG6wFCSUmL3w3oe4Upw/o.jpg",
       "featured": true,
       "description": "MESH space is a family-friendly cowork, coffee, and community lounge in South Redondo Beach, created with immense love by."
